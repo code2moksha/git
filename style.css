@@ -10,3 +10,9 @@
   align-items:center;
   justify-content: left;
 }
+.main{
+  background-image:url(./lotus.jpeg); 
+  background-size: contain;
+  height: 600px;
+  width:100%;
+}
