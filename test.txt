@@ -8,4 +8,5 @@ A test file created
 *main commit 3
 *main rebase commit1
 *main rebase commit2
+*main rebase commit3
 */
