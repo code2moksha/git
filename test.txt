@@ -4,4 +4,5 @@ A test file created
 *bug fix2
 *bug fix3
 *main commit 1
+*main commit 2
 */
