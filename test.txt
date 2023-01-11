@@ -7,4 +7,5 @@ A test file created
 *main commit 2
 *main commit 3
 *main rebase commit1
+*main rebase commit2
 */
