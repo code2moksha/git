@@ -2,4 +2,5 @@
 A test file created 
 *bug fix1
 *bug fix2
+*bug fix3
 */
